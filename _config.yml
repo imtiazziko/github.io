@@ -1,0 +1,34 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://imtiazziko.github.io
+title: Imtiaz Masud Ziko
+email: ziko.iut@@gmail.com
+author: Imtiaz Ziko
+description: > # "Write an awesome description for your new site here. 
+  PhD candidate working on machine learning focused on efficient optimization of 
+  unsupervised clustering in large scale applications.
+copyright: 'Copyright &copy; 2018 Imtiaz Masud. All Rights Reserved.'
+# credits: 
+  # 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  # - title: twitter
+    # url: https://twitter.com/SBootstrap
+  - title: github
+    url: https://github.com/imtiazziko
+  - title: linkedin
+    url: https://www.linkedin.com/in/imtiazmasud
