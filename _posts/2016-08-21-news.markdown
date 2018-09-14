@@ -7,4 +7,4 @@ description: |
 ---
  - **2018-09-05**: NIPS paper got accepted as a spotlight!
  - **2017-09-05**: Defended PhD thesis proposal successfully.
- - **2016-05-01**: Started my PhD studies under the supervision of [Prof. Ismail Ben Ayed](https://profs.etsmtl.ca/ibenayed/). 
+ - **2016-05-01**: Started PhD studies under [Prof. Ismail Ben Ayed](https://profs.etsmtl.ca/ibenayed/) & [Prof. Eric Granger](https://etsmtl.ca/Professeurs/egranger/Accueil?lang=en-CA) (Co-supervisor) 
