@@ -9,7 +9,7 @@ author: Imtiaz Ziko
 description: > # "Write an awesome description for your new site here. 
   PhD candidate working on machine learning focused on efficient optimization of 
   unsupervised clustering in large scale applications.
-copyright: 'Copyright &copy; 2018 Imtiaz Masud. All Rights Reserved.'
+copyright: 'Copyright &copy; 2018 Imtiaz Masud Ziko. All Rights Reserved.'
 # credits: 
   # 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
@@ -20,7 +20,8 @@ copyright: 'Copyright &copy; 2018 Imtiaz Masud. All Rights Reserved.'
 # Build settings
 markdown: kramdown
 permalink: pretty
-
+plugins:
+  - jekyll-seo-tag
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
