@@ -8,7 +8,7 @@ description: |
 
 - **Scalable Laplacian K-modes**  
 Imtiaz Masud Ziko, Eric Granger and Ismail Ben Ayed  
-In *Neural Information Processing Systems conference (NIPS)*, Montreal, Canada, December 2018. (**Spotlight**) 
+In *Neural Information Processing Systems conference (NIPS)*, Montreal, Canada, December 2018. (**Spotlight**)[[PDF](https://arxiv.org/abs/1810.13044)][[Code](https://github.com/imtiazziko/SLK)] 
 <!--[[PDF](http://www.google.com/fonts)] [[Code](https://github.com/imtiazziko/SLK)]-->
 
 - **Supervised spectral subspace clustering for visual dictionary creation in the context of image classification**  
