@@ -6,6 +6,10 @@ title: Publications
 description: |
 ---
 
+- **Clustering with Fairness Constraints: A Flexible and Scalable Approach**  
+Imtiaz Masud Ziko, Eric Granger, Jing Yuan and Ismail Ben Ayed  
+In *arXiv*, 2019. [[PDF](https://arxiv.org/pdf/1906.08207.pdf)] [[Code](https://github.com/imtiazziko/Clustering-with-fairness-constraints)] 
+
 - **Scalable Laplacian K-modes**  
 Imtiaz Masud Ziko, Eric Granger and Ismail Ben Ayed  
 In *Neural Information Processing Systems conference (NIPS)*, Montreal, Canada, December 2018. (*Spotlight*) [[PDF](https://arxiv.org/abs/1810.13044)] [[Code](https://github.com/imtiazziko/SLK)] 
