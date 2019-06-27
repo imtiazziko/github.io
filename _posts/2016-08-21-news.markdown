@@ -8,4 +8,4 @@ description: |
  - **2019-06-15**: arXiv paper: clustering with fairness constraints. Read [here](https://arxiv.org/pdf/1906.08207.pdf)!
  - **2018-09-05**: NIPS paper got accepted as a spotlight!
  - **2017-09-05**: Defended PhD thesis proposal successfully.
- - **2016-05-01**: Started PhD studies supervised by [Prof. Ismail Ben Ayed](https://profs.etsmtl.ca/ibenayed/) & [Prof. Eric Granger](https://etsmtl.ca/Professeurs/egranger/Accueil?lang=en-CA).
+ - **2016-05-01**: Started PhD studies supervised by [Prof. Ismail Ben Ayed](https://profs.etsmtl.ca/ibenayed/).
