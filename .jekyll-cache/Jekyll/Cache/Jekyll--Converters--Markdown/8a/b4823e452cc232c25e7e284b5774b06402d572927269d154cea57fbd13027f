@@ -1,0 +1,29 @@
+I"�<ul>
+  <li>
+    <p><strong>Metric learning: cross-entropy vs. pairwise losses</strong><br />
+Malik Boudiaf, Jérôme Rony, Imtiaz Masud Ziko, Eric Granger, Marco Pedersoli, Pablo Piantanida and Ismail Ben Ayed<br />
+In <em>arXiv</em>, 2020. [<a href="https://arxiv.org/pdf/2003.08983.pdf">PDF</a>] [<a href="https://github.com/jeromerony/dml_cross_entropy">Code</a>]</p>
+  </li>
+  <li>
+    <p><strong>Clustering with Fairness Constraints: A Flexible and Scalable Approach</strong><br />
+Imtiaz Masud Ziko, Eric Granger, Jing Yuan and Ismail Ben Ayed<br />
+In <em>arXiv</em>, 2019. [<a href="https://arxiv.org/pdf/1906.08207.pdf">PDF</a>] [<a href="https://github.com/imtiazziko/Clustering-with-fairness-constraints">Code</a>]</p>
+  </li>
+  <li>
+    <p><strong>Scalable Laplacian K-modes</strong><br />
+Imtiaz Masud Ziko, Eric Granger and Ismail Ben Ayed<br />
+In <em>Neural Information Processing Systems conference (NIPS)</em>, Montreal, Canada, December 2018. (<em>Spotlight</em>) [<a href="https://arxiv.org/abs/1810.13044">PDF</a>] [<a href="https://github.com/imtiazziko/SLK">Code</a>] 
+<!--[[PDF](http://www.google.com/fonts)] [[Code](https://github.com/imtiazziko/SLK)]--></p>
+  </li>
+  <li>
+    <p><strong>Supervised spectral subspace clustering for visual dictionary creation in the context of image classification</strong><br />
+Imtiaz Masud Ziko, Elisa Fromont, Damien Muselet and Marc Sebban<br />
+In <em>IAPR Asian Conference on Pattern Recognition (ACPR)</em>, Kuala Lumpur, Malaysia, 3-6 Nov. 2015. [<a href="https://ieeexplore.ieee.org/document/7486525/">PDF</a>]</p>
+  </li>
+  <li>
+    <p><strong>Design and Creation of a Multi-Illuminant Scene Image Dataset</strong><br />
+Imtiaz Masud Ziko, Shida Beigpour and Jon Y. Herdeberg<br />
+In <em>International Conference on Image and Signal Processing (ICISP)</em>, Springer, 531-538, July 2014. [<a href="https://link.springer.com/chapter/10.1007/978-3-319-07998-1_61">PDF</a>] [<a href="http://www.ansatt.hig.no/mariusp/CID_MI_Dataset_ICISP_2014.zip">Dataset</a>]</p>
+  </li>
+</ul>
+:ET

@@ -6,6 +6,10 @@ title: Publications
 description: |
 ---
 
+- **Metric learning: cross-entropy vs. pairwise losses**  
+Malik Boudiaf, Jérôme Rony, Imtiaz Masud Ziko, Eric Granger, Marco Pedersoli, Pablo Piantanida and Ismail Ben Ayed  
+In *arXiv*, 2020. [[PDF](https://arxiv.org/pdf/2003.08983.pdf)] [[Code](https://github.com/jeromerony/dml_cross_entropy)] 
+
 - **Clustering with Fairness Constraints: A Flexible and Scalable Approach**  
 Imtiaz Masud Ziko, Eric Granger, Jing Yuan and Ismail Ben Ayed  
 In *arXiv*, 2019. [[PDF](https://arxiv.org/pdf/1906.08207.pdf)] [[Code](https://github.com/imtiazziko/Clustering-with-fairness-constraints)] 
