@@ -8,16 +8,15 @@ description: |
 
 - **Metric learning: cross-entropy vs. pairwise losses**  
 Malik Boudiaf, Jérôme Rony, Imtiaz Masud Ziko, Eric Granger, Marco Pedersoli, Pablo Piantanida and Ismail Ben Ayed  
-In *arXiv*, 2020. [[PDF](https://arxiv.org/pdf/2003.08983.pdf)] [[Code](https://github.com/jeromerony/dml_cross_entropy)] 
+In *European Conference on Computer Vision (ECCV)*, 2020. (*Spotlight*) [[PDF](https://arxiv.org/pdf/2003.08983.pdf)] [[Code](https://github.com/jeromerony/dml_cross_entropy)] 
 
-- **Clustering with Fairness Constraints: A Flexible and Scalable Approach**  
+- **Variational Fair Clustering**  
 Imtiaz Masud Ziko, Eric Granger, Jing Yuan and Ismail Ben Ayed  
 In *arXiv*, 2019. [[PDF](https://arxiv.org/pdf/1906.08207.pdf)] [[Code](https://github.com/imtiazziko/Clustering-with-fairness-constraints)] 
 
 - **Scalable Laplacian K-modes**  
 Imtiaz Masud Ziko, Eric Granger and Ismail Ben Ayed  
 In *Neural Information Processing Systems conference (NIPS)*, Montreal, Canada, December 2018. (*Spotlight*) [[PDF](https://arxiv.org/abs/1810.13044)] [[Code](https://github.com/imtiazziko/SLK)] 
-<!--[[PDF](http://www.google.com/fonts)] [[Code](https://github.com/imtiazziko/SLK)]-->
 
 - **Supervised spectral subspace clustering for visual dictionary creation in the context of image classification**  
 Imtiaz Masud Ziko, Elisa Fromont, Damien Muselet and Marc Sebban  
