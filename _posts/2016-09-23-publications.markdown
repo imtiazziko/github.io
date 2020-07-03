@@ -8,7 +8,7 @@ description: |
 
 - **Laplacian Regularized Few-Shot Learning**  
 Imtiaz Masud Ziko, Jose Dolz, Eric Granger, Jing Yuan and Ismail Ben Ayed  
-In *International Conference on Machine Learning (ICML)*, 2020. [[PDF](https://arxiv.org/pdf/2006.15486.pdf)] [[Code](https:https://github.com/imtiazziko/LaplacianShot)] 
+In *International Conference on Machine Learning (ICML)*, 2020. [[PDF](https://arxiv.org/pdf/2006.15486.pdf)] [[Code](https://github.com/imtiazziko/LaplacianShot)] 
 
 - **Metric learning: cross-entropy vs. pairwise losses**  
 Malik Boudiaf*, Jérôme Rony*, Imtiaz Masud Ziko*, Eric Granger, Marco Pedersoli, Pablo Piantanida and Ismail Ben Ayed  
