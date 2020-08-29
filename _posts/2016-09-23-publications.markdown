@@ -5,6 +5,9 @@ category: Services
 title: Publications
 description: |
 ---
+- **Transductive Information Maximization For Few-Shot Learning**  
+Malik Boudiaf, Imtiaz Masud Ziko, Jérôme Rony, Jose Dolz, Pablo Piantanida and Ismail Ben Ayed  
+In *arXiv*, 2020. [[PDF](https://arxiv.org/pdf/2008.11297.pdf)] [[Code](https://github.com/mboudiaf/TIM)] 
 
 - **Laplacian Regularized Few-Shot Learning**  
 Imtiaz Masud Ziko, Jose Dolz, Eric Granger, and Ismail Ben Ayed  
