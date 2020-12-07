@@ -1,0 +1,38 @@
+I"�<ul>
+  <li>
+    <p><strong>Variational Fair Clustering</strong><br />
+Imtiaz Masud Ziko, Eric Granger, Jing Yuan and Ismail Ben Ayed<br />
+In <em>AAAI Conference on Artificial Intelligence (AAAI)</em>, 2021. [<a href="https://arxiv.org/pdf/1906.08207.pdf" target="_blank">PDF</a>] [<a href="https://github.com/imtiazziko/Clustering-with-fairness-constraints" target="_blank">Code</a>]</p>
+  </li>
+  <li>
+    <p><strong>Transductive Information Maximization For Few-Shot Learning</strong><br />
+Malik Boudiaf, Imtiaz Masud Ziko, Jérôme Rony, Jose Dolz, Pablo Piantanida and Ismail Ben Ayed<br />
+Accepted in <em>Neural Information Processing Systems conference (NeurIPS)</em>, 2020. [<a href="https://arxiv.org/pdf/2008.11297.pdf" target="_blank">PDF</a>] [<a href="https://github.com/mboudiaf/TIM" target="_blank">Code</a>]</p>
+  </li>
+  <li>
+    <p><strong>Laplacian Regularized Few-Shot Learning</strong><br />
+Imtiaz Masud Ziko, Jose Dolz, Eric Granger, and Ismail Ben Ayed<br />
+In <em>International Conference on Machine Learning (ICML)</em>, 2020. [<a href="https://arxiv.org/pdf/2006.15486.pdf" target="_blank">PDF</a>] [<a href="https://github.com/imtiazziko/LaplacianShot" target="_blank">Code</a>]</p>
+  </li>
+  <li>
+    <p><strong>Metric learning: cross-entropy vs. pairwise losses</strong><br />
+Malik Boudiaf<em>, Jérôme Rony</em>, Imtiaz Masud Ziko<em>, Eric Granger, Marco Pedersoli, Pablo Piantanida and Ismail Ben Ayed<br />
+In *European Conference on Computer Vision (ECCV)</em>, 2020. (<em>Spotlight</em>) [<a href="https://arxiv.org/pdf/2003.08983.pdf" target="_blank">PDF</a>] [<a href="https://github.com/jeromerony/dml_cross_entropy" target="_blank">Code</a>]</p>
+  </li>
+  <li>
+    <p><strong>Scalable Laplacian K-modes</strong><br />
+Imtiaz Masud Ziko, Eric Granger and Ismail Ben Ayed<br />
+In <em>Neural Information Processing Systems conference (NeurIPS)</em>, Montreal, Canada, December 2018. (<em>Spotlight</em>) [<a href="https://arxiv.org/abs/1810.13044" target="_blank">PDF</a>] [<a href="https://github.com/imtiazziko/SLK" target="_blank">Code</a>]</p>
+  </li>
+  <li>
+    <p><strong>Supervised spectral subspace clustering for visual dictionary creation in the context of image classification</strong><br />
+Imtiaz Masud Ziko, Elisa Fromont, Damien Muselet and Marc Sebban<br />
+In <em>IAPR Asian Conference on Pattern Recognition (ACPR)</em>, Kuala Lumpur, Malaysia, 3-6 Nov. 2015. [<a href="https://ieeexplore.ieee.org/document/7486525/" target="_blank">PDF</a>]</p>
+  </li>
+  <li>
+    <p><strong>Design and Creation of a Multi-Illuminant Scene Image Dataset</strong><br />
+Imtiaz Masud Ziko, Shida Beigpour and Jon Y. Herdeberg<br />
+In <em>International Conference on Image and Signal Processing (ICISP)</em>, Springer, 531-538, July 2014. [<a href="https://link.springer.com/chapter/10.1007/978-3-319-07998-1_61" target="_blank">PDF</a>] [<a href="http://www.ansatt.hig.no/mariusp/CID_MI_Dataset_ICISP_2014.zip" target="_blank">Dataset</a>]</p>
+  </li>
+</ul>
+:ET

@@ -1,8 +1,14 @@
-I"5	<ul>
+I"�
+<ul>
+  <li>
+    <p><strong>Transductive Information Maximization For Few-Shot Learning</strong><br />
+Malik Boudiaf, Imtiaz Masud Ziko, Jérôme Rony, Jose Dolz, Pablo Piantanida and Ismail Ben Ayed<br />
+Accepted in <em>Neural Information Processing Systems conference (NeurIPS)</em>, 2020. [<a href="https://arxiv.org/pdf/2008.11297.pdf" target="_blank">PDF</a>] [<a href="https://github.com/mboudiaf/TIM" target="_blank">Code</a>]</p>
+  </li>
   <li>
     <p><strong>Laplacian Regularized Few-Shot Learning</strong><br />
-Imtiaz Masud Ziko, Jose Dolz, Eric Granger, Jing Yuan and Ismail Ben Ayed<br />
-In <em>International Conference on Machine Learning (ICML)</em>, 2020. [<a href="https://arxiv.org/pdf/2006.15486.pdf">PDF</a>] [<a href="https:https://github.com/imtiazziko/LaplacianShot">Code</a>]</p>
+Imtiaz Masud Ziko, Jose Dolz, Eric Granger, and Ismail Ben Ayed<br />
+In <em>International Conference on Machine Learning (ICML)</em>, 2020. [<a href="https://arxiv.org/pdf/2006.15486.pdf">PDF</a>] [<a href="https://github.com/imtiazziko/LaplacianShot">Code</a>]</p>
   </li>
   <li>
     <p><strong>Metric learning: cross-entropy vs. pairwise losses</strong><br />
