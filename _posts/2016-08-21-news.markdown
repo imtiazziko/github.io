@@ -5,7 +5,7 @@ category: Services
 title: News
 description: |
 ---
- - **2020-09-27**: Research article on fairness in clustering accepted at AAAI '21: Read [here](https://arxiv.org/pdf/1906.08207.pdf){:target="_blank"}.
+ - **2020-12-02**: Research article on fairness in clustering accepted at AAAI '21: Read [here](https://arxiv.org/pdf/1906.08207.pdf){:target="_blank"}.
  - **2020-09-27**: Paper accepted at Neurips '20: Read [here](https://arxiv.org/pdf/2008.11297.pdf){:target="_blank"}.
  - **2020-07-02**: Successfully defended my PhD dissertation.
  - **2020-07-02**: ECCV paper on metric learning got accepted as spotlight!. Check [here](https://arxiv.org/pdf/2003.08983.pdf){:target="_blank"}.
