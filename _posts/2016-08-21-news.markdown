@@ -5,11 +5,13 @@ category: Services
 title: News
 description: |
 ---
- - **2020-12-02**: Research article on fairness in clustering accepted at AAAI '21: Read [here](https://arxiv.org/pdf/1906.08207.pdf){:target="_blank"}.
- - **2020-09-27**: Paper accepted at Neurips '20: Read [here](https://arxiv.org/pdf/2008.11297.pdf){:target="_blank"}.
+ - **2020-12-02**: Started working as a Lead R&T (AI) @ Thales - cortAIx in Montreal.
+ - **2020-12-02**: Research [article](https://arxiv.org/pdf/1906.08207.pdf){:target="_blank"} on fairness in clustering accepted at AAAI '21.
+ - **2020-12-02**: [Paper](https://arxiv.org/pdf/2012.06166.pdf){:target="_blank"} on Few-shot segmentation.
+ - **2020-09-27**: [Paper](https://arxiv.org/pdf/2008.11297.pdf){:target="_blank"} accepted at Neurips '20.
  - **2020-07-02**: Successfully defended my PhD dissertation.
  - **2020-07-02**: ECCV paper on metric learning got accepted as spotlight!. Check [here](https://arxiv.org/pdf/2003.08983.pdf){:target="_blank"}.
- - **2020-06-01**: ICML paper on few-shot learning got accepted. Check [here](https://arxiv.org/pdf/2006.15486.pdf){:target="_blank"}.
- - **2018-09-05**: NeurIPS paper got accepted as a spotlight. Read [here](https://arxiv.org/pdf/1810.13044.pdf){:target="_blank"}.
+ - **2020-06-01**: ICML [paper](https://arxiv.org/pdf/2006.15486.pdf){:target="_blank"} on few-shot learning got accepted.
+ - **2018-09-05**: NeurIPS [paper](https://arxiv.org/pdf/1810.13044.pdf){:target="_blank"} got accepted as a spotlight.
  <!-- - **2017-09-05**: Defended PhD thesis proposal successfully. -->
  <!-- - **2016-05-01**: Started PhD studies supervised by [Prof. Ismail Ben Ayed](https://profs.etsmtl.ca/ibenayed/). -->

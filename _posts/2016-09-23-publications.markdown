@@ -7,8 +7,13 @@ description: |
 ---
 - **Variational Fair Clustering**  
 Imtiaz Masud Ziko, Jing Yuan, Eric Granger and Ismail Ben Ayed  
-In *AAAI Conference on Artificial Intelligence (AAAI)*, 2021. [[PDF](https://arxiv.org/pdf/1906.08207.pdf){:target="_blank"}] [[Code](https://github.com/imtiazziko/Clustering-with-fairness-constraints){:target="_blank"}] 
+In *AAAI Conference on Artificial Intelligence (AAAI)*, 2021. [[PDF](https://arxiv.org/pdf/1906.08207.pdf){:target="_blank"}] [[Code](https://github.com/imtiazziko/Clustering-with-fairness-constraints){:target="_blank"}]
 
+- **Few-Shot Segmentation Without Meta-Learning: A Good Transductive Inference Is All You Need?**  
+Malik Boudiaf, Hoel Kervadec, Imtiaz Masud Ziko, Pablo Piantanida, Ismail Ben Ayed and Jose Dolz  
+In *arXiv*, 2020. [[PDF](https://arxiv.org/pdf/2012.06166.pdf){:target="_blank"}] [[Code](https://github.com/mboudiaf/RePRI-for-Few-Shot-Segmentation){:target="_blank"}] 
+
+ 
 - **Transductive Information Maximization For Few-Shot Learning**  
 Malik Boudiaf, Imtiaz Masud Ziko, Jérôme Rony, Jose Dolz, Pablo Piantanida and Ismail Ben Ayed  
 Accepted in *Neural Information Processing Systems conference (NeurIPS)*, 2020. [[PDF](https://arxiv.org/pdf/2008.11297.pdf){:target="_blank"}] [[Code](https://github.com/mboudiaf/TIM){:target="_blank"}] 
