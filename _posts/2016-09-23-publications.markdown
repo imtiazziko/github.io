@@ -5,13 +5,14 @@ category: Services
 title: Publications
 description: |
 ---
-- **Variational Fair Clustering**  
-Imtiaz Masud Ziko, Jing Yuan, Eric Granger and Ismail Ben Ayed  
-In *AAAI Conference on Artificial Intelligence (AAAI)*, 2021. [[PDF](https://arxiv.org/pdf/1906.08207.pdf){:target="_blank"}] [[Code](https://github.com/imtiazziko/Clustering-with-fairness-constraints){:target="_blank"}]
 
 - **Few-Shot Segmentation Without Meta-Learning: A Good Transductive Inference Is All You Need?**  
 Malik Boudiaf, Hoel Kervadec, Imtiaz Masud Ziko, Pablo Piantanida, Ismail Ben Ayed and Jose Dolz  
-In *arXiv*, 2020. [[PDF](https://arxiv.org/pdf/2012.06166.pdf){:target="_blank"}] [[Code](https://github.com/mboudiaf/RePRI-for-Few-Shot-Segmentation){:target="_blank"}] 
+In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2021. [[PDF](https://arxiv.org/pdf/2012.06166.pdf){:target="_blank"}] [[Code](https://github.com/mboudiaf/RePRI-for-Few-Shot-Segmentation){:target="_blank"}] 
+
+- **Variational Fair Clustering**  
+Imtiaz Masud Ziko, Jing Yuan, Eric Granger and Ismail Ben Ayed  
+In *AAAI Conference on Artificial Intelligence (AAAI)*, 2021. [[PDF](https://arxiv.org/pdf/1906.08207.pdf){:target="_blank"}] [[Code](https://github.com/imtiazziko/Clustering-with-fairness-constraints){:target="_blank"}]
 
  
 - **Transductive Information Maximization For Few-Shot Learning**  
