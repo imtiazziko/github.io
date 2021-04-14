@@ -5,7 +5,7 @@ category: Services
 title: News
 description: |
 ---
- - **2020-12-02**: Our [Paper](https://arxiv.org/pdf/2012.06166.pdf){:target="_blank"} on Few-shot segmentation accepted at CVPR 2021.
+ - **2021-03-02**: Our [Paper](https://arxiv.org/pdf/2012.06166.pdf){:target="_blank"} on Few-shot segmentation accepted at CVPR 2021.
  - **2021-01-04**: Started working as a Lead R&T (AI) @ Thales - cortAIx in Montreal.
  - **2020-12-08**: Research [article](https://arxiv.org/pdf/1906.08207.pdf){:target="_blank"} on fairness in clustering accepted at AAAI '21.
  - **2020-09-27**: [Paper](https://arxiv.org/pdf/2008.11297.pdf){:target="_blank"} accepted at Neurips '20.
