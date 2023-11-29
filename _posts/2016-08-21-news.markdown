@@ -5,9 +5,12 @@ category: Services
 title: News
 description: |
 ---
- - **2021-03-02**: Our [Paper](https://arxiv.org/pdf/2012.06166.pdf){:target="_blank"} on Few-shot segmentation accepted at CVPR 2021.
- - **2021-01-04**: Started working as a Lead R&T (AI) @ Thales - cortAIx in Montreal.
- - **2020-12-08**: Research [article](https://arxiv.org/pdf/1906.08207.pdf){:target="_blank"} on fairness in clustering accepted at AAAI '21.
+ - **2023-11-01**: Joined @ AstraZeneca as an Associate Principal AI scientist.
+ - **2023-10-24**: Our [paper](https://arxiv.org/pdf/2307.05707.pdf){:target="_blank"} on Domain Incremental Learning is accepted at WACV 2024.
+ - **2023-07-17**: Our [paper](https://openaccess.thecvf.com/content/ICCV2023/html/Chiaroni_Parametric_Information_Maximization_for_Generalized_Category_Discovery_ICCV_2023_paper.html){:target="_blank"} Generalized Category Discovery is accepted at ICCV 2023.
+ - **2021-03-02**: Our [paper](https://arxiv.org/pdf/2012.06166.pdf){:target="_blank"} on Few-shot segmentation is accepted at CVPR 2021.
+ - **2021-01-04**: Started working as a Lead R&T (AI) @ Thales.
+ - **2020-12-08**: Our [paper](https://arxiv.org/pdf/1906.08207.pdf){:target="_blank"} on fair clustering is accepted at AAAI '21.
  - **2020-09-27**: [Paper](https://arxiv.org/pdf/2008.11297.pdf){:target="_blank"} accepted at Neurips '20.
  - **2020-07-30**: Successfully defended my PhD dissertation.
  - **2020-07-02**: ECCV paper on metric learning got accepted as spotlight!. Check [here](https://arxiv.org/pdf/2003.08983.pdf){:target="_blank"}.

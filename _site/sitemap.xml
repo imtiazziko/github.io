@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://imtiazziko.github.io/services/2016/08/21/news/</loc>
+<loc>http://localhost:4000/services/2016/08/21/news/</loc>
 <lastmod>2016-08-21T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>http://imtiazziko.github.io/services/2016/09/23/publications/</loc>
+<loc>http://localhost:4000/services/2016/09/23/publications/</loc>
 <lastmod>2016-09-23T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>http://imtiazziko.github.io/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://imtiazziko.github.io/CV_Ziko.pdf</loc>
-<lastmod>2021-01-05T10:36:47-05:00</lastmod>
+<loc>http://localhost:4000/CV_Ziko.pdf</loc>
+<lastmod>2023-11-29T11:32:11-05:00</lastmod>
 </url>
 <url>
-<loc>http://imtiazziko.github.io/googlebdf664d668b0048d.html</loc>
-<lastmod>2021-01-05T10:36:29-05:00</lastmod>
+<loc>http://localhost:4000/googlebdf664d668b0048d.html</loc>
+<lastmod>2023-11-29T11:32:11-05:00</lastmod>
 </url>
 <url>
-<loc>http://imtiazziko.github.io/news.html</loc>
-<lastmod>2021-01-05T10:36:29-05:00</lastmod>
+<loc>http://localhost:4000/news.html</loc>
+<lastmod>2023-11-29T11:32:11-05:00</lastmod>
 </url>
 </urlset>
